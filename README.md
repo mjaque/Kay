@@ -1,2 +1,2 @@
 # Kay
-History based shooter
+Story based shooter
