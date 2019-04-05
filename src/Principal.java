@@ -25,7 +25,7 @@ public class Principal extends Application{
 			ventana.setResizable(false);
 
 			// 1.2 Crear la escena
-	//ventana.setScene(new Escena1(null));
+			ventana.setScene(new Escena1());
 			ventana.show();
 		}
 
