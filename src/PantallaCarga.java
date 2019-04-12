@@ -10,7 +10,7 @@ public class PantallaCarga extends Scene{
 
 		// Atributos de la Escena
 		static final Group RAIZ = new Group();
-		static final Image IMAGEN = new Image(PantallaCarga.class.getClassLoader().getResourceAsStream("recursos/pixil-frame-0 (3).png"));
+		static final Image IMAGEN = new Image(PantallaCarga.class.getClassLoader().getResourceAsStream("recursos/pixil-frame-0.png"));
 		static final Image Load = new Image(PantallaCarga.class.getClassLoader().getResourceAsStream("recursos/Loading.gif"));
 		public PantallaCarga() {
 			super (RAIZ);
